@@ -43,3 +43,11 @@ figcaption {
 }
 
 /* Descendent selector */
+
+#logo h1 { /* selects h1 if there inside the id="logo"*/
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h2 { /* selects h1 if there inside the id="logo"*/
+  font-family: 'Elsie Swash Caps', cursive;
+}
