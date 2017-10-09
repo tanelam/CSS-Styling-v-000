@@ -40,5 +40,6 @@ figcaption {
 
 #logo{/* select elemts with id=logo */
   background-color: aqua;
-
 }
+
+/* Descendent selector */
